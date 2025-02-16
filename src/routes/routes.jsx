@@ -23,6 +23,7 @@ const AppRoutes = () => {
         <Route path="box-sizing" element={<BoxSizing />} />
         {/* Add other CSS routes */}
       </Route>
+      
     </Routes>
   );
 };
